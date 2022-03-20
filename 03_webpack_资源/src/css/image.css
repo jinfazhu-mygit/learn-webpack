@@ -1,0 +1,6 @@
+.image {
+  background-image: url("../image/nhlt.jpg");
+  background-size: contain;
+  width: 200px;
+  height: 200px;
+}
